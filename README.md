@@ -35,7 +35,7 @@
 
 ### 1. Install Anaconda Navigator:
 
-Click here to [install]((https://www.anaconda.com/download)) Anaconda Navigator.
+Click [here](https://www.anaconda.com/download) to install Anaconda Navigator.
 
 ### 2. Install Tensorflow :
 Follow the steps in [this video](https://www.youtube.com/watch?v=QUjtDIalh0k&t=137s) to install Tensorflow.
