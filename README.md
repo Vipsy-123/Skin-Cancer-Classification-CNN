@@ -35,8 +35,7 @@
 
 ### 1. Install Anaconda Navigator:
 
-Follow the steps in [this video](https://www.youtube.com/watch?v=Ejzubp-B83o&t=1165s](https://www.youtube.com/watch?v=BXsgHC8qTac)) to install Anaconda Navigator.
-
+Click here to [install]((https://www.anaconda.com/download)) Anaconda Navigator.
 
 ### 2. Install Tensorflow :
 Follow the steps in [this video](https://www.youtube.com/watch?v=QUjtDIalh0k&t=137s) to install Tensorflow.
@@ -58,7 +57,7 @@ Follow the steps in [this video](https://www.youtube.com/watch?v=QUjtDIalh0k&t=1
 
 **2.4 Install Tensorflow:**
 ```bash
-  $ python -m pip install "tensorflow=2.11"
+  $ python -m pip install "tensorflow<2.11"
 ```
 
 **2.5 Test GPU**
