@@ -57,7 +57,7 @@ Follow the steps in [this video](https://www.youtube.com/watch?v=QUjtDIalh0k&t=1
 
 **2.4 Install Tensorflow:**
 ```bash
-  $ python -m pip install "tensorflow<2.11"
+  $ python3 -m pip install "tensorflow<2.11"
 ```
 
 **2.5 Test GPU**
