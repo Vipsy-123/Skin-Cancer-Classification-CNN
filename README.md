@@ -72,7 +72,7 @@ Follow the steps in [this video](https://www.youtube.com/watch?v=QUjtDIalh0k&t=1
 
 ### Clone this Repository:
 ```bash
-   git clone  https://github.com/Vipsy-123/Skin-Cancer-Classification-using-CNN-.git
+   git clone  https://github.com/Vipsy-123/Skin-Cancer-Classification-using-CNN.git
 ```
 
 ### _Dataset_:
